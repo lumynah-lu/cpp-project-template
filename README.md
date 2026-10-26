@@ -1,6 +1,6 @@
 # cpp-project-template
 
-[![CI](https://github.com/OWNER/cpp-project-template/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/cpp-project-template/actions/workflows/ci.yml)
+[![CI](https://github.com/lumynah-lu/cpp-project-template/actions/workflows/ci.yml/badge.svg)](https://github.com/lumynah-lu/cpp-project-template/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A modern, production-ready C++17 project template: modern CMake, GoogleTest unit tests,
