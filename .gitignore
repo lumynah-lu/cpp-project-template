@@ -1,0 +1,24 @@
+# Build directories
+build/
+cmake-build-*/
+out/
+
+# IDE / editor
+.vscode/
+.idea/
+.cache/
+compile_commands.json
+
+# Compiled artifacts
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+
+# OS files
+.DS_Store
+Thumbs.db
